@@ -1,0 +1,7 @@
+Önerilen Kurulum
+chmod +x setup.sh
+./setup.sh
+
+Modüllerin kurulumu - virtualenv kullanmanız önerilir :)
+pip install -r requirements.txt
+
